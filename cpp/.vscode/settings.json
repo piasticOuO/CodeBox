@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "coroutine": "cpp",
         "cctype": "cpp",
         "clocale": "cpp",
         "cmath": "cpp",
@@ -29,7 +30,6 @@
         "complex": "cpp",
         "concepts": "cpp",
         "condition_variable": "cpp",
-        "coroutine": "cpp",
         "cstdint": "cpp",
         "cuchar": "cpp",
         "deque": "cpp",
@@ -90,12 +90,6 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "valarray": "cpp",
-        "variant": "cpp",
-        "__bit_reference": "cpp",
-        "__verbose_abort": "cpp",
-        "ios": "cpp",
-        "locale": "cpp",
-        "queue": "cpp",
-        "stack": "cpp"
+        "variant": "cpp"
     }
 }
